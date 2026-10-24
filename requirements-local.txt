@@ -1,0 +1,11 @@
+# Tested on Python 3.13 with CPU PyTorch.
+torch==2.9.1
+torchaudio==2.9.1
+demucs==4.0.1
+librosa==0.11.0
+soundfile==0.14.0
+pretty_midi==0.2.11.post0
+onnxruntime==1.31.0
+mir_eval==0.8.2
+resampy==0.4.2
+# Basic Pitch is installed separately with --no-deps; see README.md.

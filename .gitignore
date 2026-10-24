@@ -1,0 +1,12 @@
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+reference*
+verification*.json
+verify*.json
+verified-*.webm
+verified-*.mid
+preview*.png
+mobile-preview*.png
+stage-*.png
